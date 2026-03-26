@@ -90,6 +90,28 @@
         "personality": "",
         "background": "",
         "notes": ""
+      },
+      {
+        "id": "e_1774540894643_ci23",
+        "name": "Pelagius Thalassar",
+        "title": "Emperor",
+        "race": "Human",
+        "affiliation": "House Thalassar",
+        "status": "Deceased",
+        "location": "",
+        "birthYear": "881",
+        "deathYear": "948",
+        "father": "",
+        "mother": "",
+        "spouse": "",
+        "children": "[]",
+        "siblings": "[]",
+        "auntsUncles": "[]",
+        "cousins": "[]",
+        "appearance": "",
+        "personality": "",
+        "background": "",
+        "notes": ""
       }
     ],
     "factions": [
