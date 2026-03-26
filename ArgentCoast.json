@@ -358,7 +358,19 @@
         "notes": ""
       }
     ],
-    "races": []
+    "races": [
+      {
+        "id": "e_1774566936433_5mmx",
+        "name": "Humans",
+        "lifespan": "",
+        "homeland": "",
+        "description": "",
+        "abilities": "",
+        "history": "",
+        "relations": "",
+        "notes": ""
+      }
+    ]
   },
   "currentYear": "1037"
 }
